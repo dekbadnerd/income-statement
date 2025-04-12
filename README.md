@@ -29,3 +29,6 @@ To run this project locally:
 3. Install dependencies:
    ```bash
    npm start
+
+## 🔗 Live Demo  
+[👉 Click here to try it out](https://verdant-sherbet-2b97f5.netlify.app/)
